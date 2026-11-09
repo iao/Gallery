@@ -1,0 +1,15 @@
+.popup-thumbnail {
+		    display: inline-block;
+    vertical-align: top;
+	    margin-bottom: 1.25%;
+    margin-right: 1.25%;
+}
+
+#lbDescBottom {
+		font-size:12px;
+}
+
+#lbDescBottom p {
+		line-height: 12px;
+		margin: 0;
+}
